@@ -1,21 +1,21 @@
-## Hi there I'm Millie 🚀
-```
-Software
-Hardware
-Cars
-```
+<h1 align='center'>Hi! I'm Millie 🚀</h1>
+<h3 align='center'>React Developer - Hardware Enthusiast - Lover of Good Books </h3>
 
-<!--
-**tiredandsad/tiredandsad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I am currently working on a webapp for asset inventory and tracking
+  
+- 👭 I'm looking to collaborate on projects to better my skills
 
-Here are some ideas to get you started:
+- 🚗 Ask me about my obsession with cars from the 90's
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⌨️ Currently looking for new employment in React Development
+
+
+## What I use and things I know
+
+### 👩‍💻 Languages
+
+
+
+### 🧰 Tools
+
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
